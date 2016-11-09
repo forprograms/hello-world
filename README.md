@@ -1,2 +1,2 @@
 # hello-world
-my first cvs in git
+my first vcs in git
